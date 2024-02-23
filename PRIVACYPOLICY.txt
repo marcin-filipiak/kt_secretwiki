@@ -1,0 +1,51 @@
+Thank you for choosing SecretWiki! This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our application.
+
+1. Information We Collect:
+
+    Account Information: When you create an account, we collect your username and encrypted password to ensure secure access.
+
+    Notes and Content: Your notes and content created within SecretWiki are stored securely on your device. We do not access or store this information.
+
+    Usage Data: We collect anonymized usage data to enhance the application's performance and user experience.
+
+2. How We Use Your Information:
+
+    Access and Authentication: Your account information is used to authenticate and provide access to SecretWiki.
+
+    Improving Our Service: Usage data helps us understand how you interact with the application, allowing us to make improvements.
+
+3. Data Security:
+
+    Encryption: Your data is encrypted to ensure confidentiality. Only you, with your password, can access your information.
+
+    Secure Storage: We employ industry-standard measures to store data securely on your device.
+
+4. Data Sharing:
+
+    No Third-Party Sharing: We do not share your personal information with third parties.
+
+    Linked Notes: While SecretWiki allows you to link notes together, this data is stored locally on your device and is not transmitted to us.
+
+5. Updates and Communication:
+
+    App Updates: Periodically, we may release updates to improve functionality and security.
+
+    Communication: We may send important announcements or updates regarding the application, but we won't spam you.
+
+6. Your Choices:
+
+    Data Deletion: You can delete your account and associated data within the application.
+
+    Opt-Out: You can opt-out of non-essential communications.
+
+7. Children's Privacy:
+
+    Not Intended for Children: We do not knowingly collect personal information from children.
+
+8. Changes to this Policy:
+
+    Notification: If we make changes to this policy, we will notify you through the application or via email.
+
+By using SecretWiki, you agree to the terms outlined in this Privacy Policy. If you have any questions, contact us at privacy@noweenergie.org
+
+Thank you for trusting SecretWiki to safeguard your information!

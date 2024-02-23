@@ -23,7 +23,11 @@ class MainActivity : AppCompatActivity() {
 
         val webView: WebView = findViewById(R.id.WebView)
         val webSettings: WebSettings = webView.settings
-        webSettings.userAgentString = "secretwiki_browser"
+
+        // Wyłącz pamięć podręczną
+        webSettings.cacheMode = WebSettings.LOAD_NO_CACHE
+
+        //webSettings.userAgentString = "secretwiki_browser"
 
         // Ustawienie WebViewClient tylko raz
         webView.webViewClient = object : WebViewClient() {
